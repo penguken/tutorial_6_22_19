@@ -7,3 +7,6 @@ Hello world. This is my introduction to GitHub. I am trying ~~really~~ hard to l
 1. Coding is the *future*
 2. My girlfriend *made* me do this
 3. Why not? ;)
+
+### Birch branch
+I dunno...just a nice tree.
